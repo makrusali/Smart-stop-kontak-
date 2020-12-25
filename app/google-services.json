@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "25723452941",
+    "firebase_url": "https://iot-eed22.firebaseio.com",
+    "project_id": "iot-eed22",
+    "storage_bucket": "iot-eed22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25723452941:android:5e4f5c54ae31788ab1df44",
+        "android_client_info": {
+          "package_name": "com.makrusali.smartplug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25723452941-hjjihii6ta6evf6grcbu24at4l4i4mfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFPpf2jkKOMBF-7IYGAFZO9ij-SYWOC6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25723452941-a75j406l6bq5rrsojcpc51l2fjo8925e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
